@@ -1,0 +1,8 @@
+"""
+Notas:
+Empezar con dos funciones muy sencillas
+    -Sumatorio: Hacerlo primero con while y luego con for
+    -Contar números ascendentemente: Con el for directamente
+
+Ayuda a introducir el funcionamiento básico de los dos tipos de bucle y su relación entre ellos.
+"""
