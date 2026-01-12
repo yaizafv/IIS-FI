@@ -1,0 +1,36 @@
+Report for María López, 45678901D
+	-Time subscribed: 0 years, 3 months
+	-Active subscription : Yes
+	-Total expenses: True €
+Report for Juan Pérez, 12345678A
+	-Time subscribed: 1 years, 2 months
+	-Active subscription : Yes
+	-Total expenses: True €
+Report for Ana García, 23456789B
+	-Time subscribed: 0 years, 5 months
+	-Active subscription : Yes
+	-Total expenses: True €
+Report for Luis Rodríguez, 34567890C
+	-Time subscribed: 2 years, 2 months
+	-Active subscription : Yes
+	-Total expenses: False €
+Report for Carlos Sánchez, 56789012E
+	-Time subscribed: 1 years, 0 months
+	-Active subscription : Yes
+	-Total expenses: True €
+Report for Elena Martínez, 67890123F
+	-Time subscribed: 0 years, 8 months
+	-Active subscription : Yes
+	-Total expenses: False €
+Report for Pepe Pérez, 11223344P
+	-Time subscribed: 0 years, 5 months
+	-Active subscription : Yes
+	-Total expenses: True €
+Report for Lucía López, 22334455P
+	-Time subscribed: 2 years, 10 months
+	-Active subscription : Yes
+	-Total expenses: True €
+Report for Yaiza Vega, 21090532S
+	-Time subscribed: 0 years, 1 months
+	-Active subscription : Yes
+	-Total expenses: False €
